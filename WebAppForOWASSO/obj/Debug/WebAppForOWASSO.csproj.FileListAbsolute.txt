@@ -1,0 +1,136 @@
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\ApplicationInsights.config
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\csc.exe
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\vbc.exe
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\VBCSCompiler.exe
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\WebAppForOWASSO.dll.config
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\WebAppForOWASSO.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\WebAppForOWASSO.pdb
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Antlr3.Runtime.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.Web.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.ApplicationInsights.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.WsFederation.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Newtonsoft.Json.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Owin.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Helpers.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Mvc.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Optimization.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Razor.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.Deployment.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.Razor.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\WebGrease.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.Web.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.ApplicationInsights.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Helpers.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Mvc.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Optimization.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.Razor.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.Deployment.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.Web.WebPages.Razor.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Antlr3.Runtime.pdb
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Newtonsoft.Json.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\bin\Microsoft.Owin.Security.WsFederation.xml
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.csprojResolveAssemblyReference.cache
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.dll
+c:\users\dxu\documents\visual studio 2015\Projects\TestWorkerProcesses\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.pdb
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\ApplicationInsights.config
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\csc.exe
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\System.Collections.Immutable.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\vbc.exe
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\VBCSCompiler.exe
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\roslyn\VBCSCompiler.exe.config
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\WebAppForOWASSO.dll.config
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\WebAppForOWASSO.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\WebAppForOWASSO.pdb
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Antlr3.Runtime.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.Web.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.WindowsServer.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.ApplicationInsights.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.WsFederation.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Web.Infrastructure.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Newtonsoft.Json.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Owin.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Helpers.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Mvc.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Optimization.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Razor.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.Deployment.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.Razor.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\WebGrease.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.Web.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.AI.WindowsServer.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.ApplicationInsights.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Helpers.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Mvc.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Optimization.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.Razor.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.Deployment.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.Web.WebPages.Razor.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Antlr3.Runtime.pdb
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Newtonsoft.Json.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\bin\Microsoft.Owin.Security.WsFederation.xml
+E:\Sample Code\SourceCode\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.csprojResolveAssemblyReference.cache
+E:\Sample Code\SourceCode\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.dll
+E:\Sample Code\SourceCode\WebAppForOWASSO\obj\Debug\WebAppForOWASSO.pdb
